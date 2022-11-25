@@ -1,0 +1,5 @@
+opencv-python
+terminaltables
+pillow
+shapely
+numpy
