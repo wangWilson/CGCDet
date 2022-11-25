@@ -1,8 +1,8 @@
 
-# Learning Oriented Remote Sensing Object Detection via Naive Geometric Computing
+# Learning Oriented Object Detection via Naive Geometric Computing
 
 ## Introduction
-A pytorch implement of the paper Learning Oriented Remote Sensing Object Detection via Naive Geometric Computing.
+A pytorch implement of the paper Learning Oriented Object Detection via Naive Geometric Computing.
 This codebase is created for oriented object detection in remote sensing.
 
 It is modified from [AerialDetection](https://github.com/dingjiansw101/AerialDetection).
@@ -17,7 +17,7 @@ Please refer to [INSTALL.md](doc/INSTALL.md) for installation.
 
 Please see [GETTING_STARTED.md](doc/GETTING_STARTED.md) for the basic usage of mmdetection.
 
-## Thanks to the Third Party Libs
+## Thanks to the Three Party Libs
 
 [Pytorch](https://pytorch.org/)
 
